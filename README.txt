@@ -41,4 +41,6 @@ in working area or staging area then we git restore.
 
 13. 'git diff commit1 commit2' -> gives the difference of all file changes between 2 commits
 
-14. ' ' -> If we want to avoid opening a text editor like vim/nano to add commit message we can use this following command 
+14. ' git commit -m "<your commit message>"' -> If we want to avoid opening a text editor like vim/nano to add commit message we can use this 
+following command .
+
