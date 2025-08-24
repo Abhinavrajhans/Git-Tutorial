@@ -2,7 +2,7 @@
 it also creates .git folder that has all the relevant logic to manage versions
 of your project .
 
-there are 3 areas in the git ecosystem
+there are 3 areas in the git ecosystem :-
 
 2. working areas -> There can be a bunch of files that arre not currently handled by git.
 It means that changes done or to be done in those files are not managed by git yet. A file 
