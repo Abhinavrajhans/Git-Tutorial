@@ -44,3 +44,14 @@ in working area or staging area then we git restore.
 14. ' git commit -m "<your commit message>"' -> If we want to avoid opening a text editor like vim/nano to add commit message we can use this 
 following command .
 
+15. 'git remote' -> list down all the remote connections names
+
+16. Remote connection -> it helps you to link two repositories for uploading and downloading changes from each otherwise.'
+
+17. 'git remote add <name of the remote> <link of the remote>' -> this command helps us to add a new link to the remote repo and give it a name to it.
+
+18. 'git remote rm <name of the remote>' -> this command deletes a remote connvection 
+
+19. 'git remote rename <oldname> <newname> : this command renames the remote connection.
+
+Note: the name of the remote connection is always used to establish communication between the repos
