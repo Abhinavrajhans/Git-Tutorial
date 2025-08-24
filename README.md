@@ -44,7 +44,7 @@ in working area or staging area then we git restore.
 14. ` git commit -m "<your commit message>"` -> If we want to avoid opening a text editor like vim/nano to add commit message we can use this 
 following command .
 
-15. `git remote` -> list down all the remote connections names
+15. `git remote` -> list down all the remote connections names .
 
 16. Remote connection -> it helps you to link two repositories for uploading and downloading changes from each otherwise.`
 
