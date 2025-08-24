@@ -74,6 +74,6 @@ Note: the name of the remote connection is always used to establish communicatio
 23. Merge conflicts are a very common scenario 
 
 23. Merge conflicts are a very common scenario 
-
-
 merge conflicts can occur if multiple people try to make changes to the same file , ad then collaborate.
+
+
