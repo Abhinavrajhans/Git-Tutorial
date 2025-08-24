@@ -70,3 +70,5 @@ Note: the name of the remote connection is always used to establish communicatio
         - git commit
         - git pull
         - git push
+
+23. Merge conflicts are a very common scenario 
